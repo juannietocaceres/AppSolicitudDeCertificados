@@ -1,5 +1,7 @@
 Solicitud de Certificados – UCC
 
+Link del video explicativo: https://1drv.ms/v/c/8c46739721634d86/IQCWcWlT6ZO_R6IDHg5ZwIVMAXrE1Ran6qx30si9EVCvbtA?e=RReRCM
+
 Aplicación móvil desarrollada en Android Studio (Java) para la gestión de solicitudes de certificados académicos en la Universidad Cooperativa de Colombia (UCC).
 
 La aplicación permite a un estudiante ingresar sus datos, seleccionar certificados académicos, visualizar un resumen de la solicitud y finalmente generar un comprobante que puede ser compartido.
